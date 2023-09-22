@@ -1,0 +1,8 @@
+t_fainstein, morganizm
+Tanya Fainstein 336433701, Marharyt Makarova 342523461
+os_ex3.tar
+MapReduceFramework.cpp - the source file that corresponds to provided MapReduceFramework.h
+Barrier.cpp - source file provided in demo example
+Barrier.h - header file proveided in deme example 
+MAKEFILE - makefile that allows if running make with no arguments to generate the
+libMapReduceFramework.a library

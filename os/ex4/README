@@ -1,0 +1,6 @@
+t_fainstein, morganizm
+Tanya Fainstein 336433701, Marharyt Makarova 342523461
+os_ex4.tar
+VirtualMemory.cpp - the source file that corresponds to provided VirtualMemory.h
+MAKEFILE - makefile that allows if running make with no arguments to generate the
+libVirtualMemory.a library

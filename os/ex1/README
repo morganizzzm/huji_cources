@@ -1,0 +1,17 @@
+elon.shamir, morganizm
+Elon Shamir (209348457), Margaryt Makarova (342523461)
+EX: 1
+
+FILES:
+osm.cpp -- osm library
+graph.png -- times graph
+
+
+Assignment 1:
+The program creates two directories named "welcome_dir_1" and "welcome_dir_1/welcome_dir_2", using the mkdir call.
+Then, it creates a file named "welcome_file.txt" inside the "/welcome_dir_2" directory
+and writes the string "welcome to OS-2023" to the file using the write system call.
+It then then closes the file using the close system call. Finally, it deletes the file and the 2 directories
+using the unlink and rmdir system call.
+In between these operations, the program makes various other system calls, such as access,
+openat, mmap, mprotect, munmap, and arch_prctl, which are used for memory management and loading shared libraries.
