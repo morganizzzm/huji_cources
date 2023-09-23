@@ -1,6 +1,6 @@
 morganizm
 List of Files:
-- IP-EX5.pdf -- my PDF
+- IP-EX5.pdf -- my PDF with results
 - IMPR_Ex5_Deep_Style_Image_Prior_2022_2023_morganizm.ipynb -- The code
 - Inpainting Folder:
    - Fei-Fei-Li-EXAMPLE -- Fei-Fei-Li example files
